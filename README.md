@@ -1,5 +1,5 @@
 # Zeplix Studios
-## Confidentiality v0.1
+## Confidentiality
 
 This is an early test build.
 The game is still in development.
